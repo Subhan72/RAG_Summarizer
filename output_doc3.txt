@@ -1,0 +1,25 @@
+=== Document Summarization Results ===
+
+Retrieved Chunks:
+Chunk 1 (Cosine Similarity: 0.3634):
+for auto- matic evaluation of summaries. In Text Summariza- tion Branches Out, pages 74–81, Barcelona, Spain. Association for Computational Linguistics. Krista Opsahl-Ong, Michael J Ryan, Josh Purtell, David Broman, Christopher Potts, Matei Zaharia, and Omar Khattab. 2024. Optimizing instructions and demon- strations for multi-stage language model programs. arXiv preprint arXiv:2406.11695. 1 ArchEHR-QA-Neural Anusri Pampari, Preethi Raghavan, Jennifer Liang, and Jian Peng. 2018. emrqa: A large c...
+
+Chunk 2 (Cosine Similarity: 0.2357):
+task holistically and may not incorporate domain expertise effectively. In this work, we introduce a two-stage LLM pipeline for clinical question answering that explic- itly separates evidence identification and answer generation. In each stage, prompts are automati- cally optimized using the MIPROv2 optimizer from DSPy (Khattab et al., 2021, 2024). The first stage is dedicated to identifying the relevant information within the clinical note, while the second stage leverages this information to ...
+
+Chunk 3 (Cosine Similarity: 0.1993):
+a combination of prompt proposal and Bayesian search to find high- performing prompts efficiently. Self-Consistency: Large LLMs can produce variable outputs given the same prompt, espe- cially under chain-of-thought reasoning. The self- consistency decoding strategy (Wang et al., 2022) addresses this by sampling multiple outputs and choosing the result that is most consistent across samples. 3 Methodology Our method draws on a human-inspired decoupling strategy, separating evidence gathering fro...
+
+Chunk 4 (Cosine Similarity: 0.1923):
+their elec- tronic health records (EHRs) poses significant chal- lenges, but also offers substantial potential for im- proving clinical communication and patient engage- ment (Soni and Demner-Fushman, 2025b). The ArchEHR-QA 2025 shared task directly targets this problem by providing patient questions alongside excerpts from clinicians’ notes, and requiring sys- tems to generate grounded responses that explicitly cite the supporting sentences. Recent advances in Large Language Models (LLMs) have ...
+
+Chunk 5 (Cosine Similarity: 0.1875):
+and Demner- Fushman, 2025a). This dataset contains 120 question-note cases derived from MIMIC-III/IV clinical notes. Each case includes a patient ques- tion (often a layperson’s phrasing) and a clinician- rewritten question focusing on the key medical query, along with a relevant excerpt from the pa- tient’s EHR notes. The notes are annotated with sentence numbers and labels indicating relevance (“essential,” “supplementary,” “not relevant”) to the question. The official split provides 20 cases ...
+
+Generated Summary:
+for auto- matic evaluation of summaries. In Text Summariza- tion Branches Out, pages 74–81, Barcelona, Spain. Association for Computational Linguistics. Krista Opsahl-Ong, Michael J Ryan, Josh Purtell, David Broman, Christopher Potts, Matei Zaharia, and Omar Khattab. 2024. Optimizing instructions and demon- strations for multi-stage language model programs. arXiv preprint arXIV:2406.11695. 1 ArchEHR-QA-Neural Anusri Pampari, Preethi Raghavan, Jennifer Liang, and Jian Peng. 2018. emrqa: A large corpus for
+
+Metrics:
+Input Token Count: 256
+Output Token Count: 150
+Generation Time: 14.78 seconds

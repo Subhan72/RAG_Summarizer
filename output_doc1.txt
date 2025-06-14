@@ -1,0 +1,25 @@
+=== Document Summarization Results ===
+
+Retrieved Chunks:
+Chunk 1 (Cosine Similarity: 0.8052):
+solutions to these challenges yet fails to realize whole-scale application of generative AI technology in systematic drug discovery at scale. Two hurdles limiting the easy integration of generative AI into pharmaceutical research are the absence of defined procedures and regulatory uncertainties as well as data quality issue s. This study analyzes the ideal way to incorporating generative AI technologies which will address proven challenges inside drug development as well as boost pharmaceutical...
+
+Chunk 2 (Cosine Similarity: 0.7907):
+ Accelerating drug discovery with generative AI: Aa paradigm shift in pharmaceutical innovation and development Narendra Kandregula * Independent Researcher. World Journal of Advanced Research and Reviews, 2025, 25(03), 1645-1658 Publication history: Received on 08 February 2025; revised on 23 March 2025; accepted on 26 March 2025 Article DOI: Abstract The clinical process to produce innovative medications generally spans over 10 years and billions of dollars from several businesses. The streng...
+
+Chunk 3 (Cosine Similarity: 0.7878):
+and deep learning have offered effective solutions (Husnain et al., 2023). AI works incredibly well when analyzing biological and chemical data patterns hence it accelerates medication development procedures and saves both resources and time (Viswa et al., 2024). Figure 4 Roles of AI in Drug discovery 1.2 Generative AI as a Disruptive Technology Generative AI has introduced a new paradigm in drug discovery because it enables scientists to predict drug properties (Gangwal et al., 2024). VAEs and ...
+
+Chunk 4 (Cosine Similarity: 0.7619):
+toxicity according to studies from Insili co Medicine and BenevolentAI and DeepMind’s AlphaFold. AI simulations offer automated drug screening combined with cost -efficient experimental approaches which boost the success rate of clinical trials. The clinical process to produce innovative medications generally spans over 10 years and billions of dollars from several businesses. The strength of computational chemistry and molecular modeling has improved nevertheless the conventional medical approa...
+
+Chunk 5 (Cosine Similarity: 0.7529):
+analyzes multiple AI approaches that consist of machine World Journal of Advanced Research and Reviews, 2025, 25(03), 1645-1658 1652 learning (ML) combined with deep learning (DL) and generative AI methods with Variational Autoencoders (VAEs) along with Generative Adversarial Networks (GANs) and transformer-based systems. The application of AI technology delivers many advantages to drug discovery processes by improving both molecular design ( speeding up lead optimization and enhancing predictio...
+
+Generated Summary:
+solutions to these challenges yet fails to realize whole-scale application of generative AI technology in systematic drug discovery at scale. Two hurdles limiting the easy integration of Generative AI into pharmaceutical research are the absence of defined procedures and regulatory uncertainties as well as data quality issue s. This study analyzes the ideal way to incorporating generativeAI technologies which will address proven challenges inside drug development as well and boost pharmaceutical design efficiency while shortening therapeutic product durations. World Journal of Advanced Research and Reviews, 2025, 25(03), 1645-1658 1649 1.4 Research Objective Research investigates how generative artificial intelligence modifies drug discovery processes and boosts pharmaceutical speed and lowers innovation expenses. This research examines modern developments in addition to industry
+
+Metrics:
+Input Token Count: 256
+Output Token Count: 150
+Generation Time: 23.23 seconds

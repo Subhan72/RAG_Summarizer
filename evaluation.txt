@@ -1,0 +1,21 @@
+=== Evaluation Results ===
+
+Document 1:
+Fluency: 8/10
+Coverage: 6/10
+Accuracy: 5/10
+Comments: Fluency: Readable with clear sentences. Coverage: Includes 3 of 5 key terms. Accuracy: Contains metadata or potential inaccuracies.
+
+Document 2:
+Fluency: 8/10
+Coverage: 2/10
+Accuracy: 7/10
+Comments: Fluency: Readable with clear sentences. Coverage: Misses several key concepts. Accuracy: No contradictions detected.
+
+Document 3:
+Fluency: 5/10
+Coverage: 2/10
+Accuracy: 7/10
+Comments: Fluency: Short or fragmented sentences. Coverage: Misses several key concepts. Accuracy: No contradictions detected.
+
+Note: Manual review recommended for accuracy, as automated checks are heuristic-based.

@@ -1,0 +1,25 @@
+=== Document Summarization Results ===
+
+Retrieved Chunks:
+Chunk 1 (Cosine Similarity: 0.0124):
+what makes US innovation unique is that research comes “with not the support but the full partnership of the federal government.” A weakening of this partnership will make it “harder for the United States to stay as the driver of innovation and science progress,” Pierce said. A physician shortage coupled with declining research investment leads to the suﬀering of patient care, she said. “When the research stops, progress stops,” Pierce said. “Scientiﬁc progress toward more treatment, towards mor...
+
+Chunk 2 (Cosine Similarity: -0.0073):
+HEALTH•5 MIN READ UPDATED JUN 11, 2025 ByAsuka Koda WATCH CNN Iran and Israel exchange strikes as conﬂict escalates Research cuts pose ‘existential threat’ to academic medicine and put nation’s health at risk, new report says Labor unions rally at Wayne State University in Detroit in April to protest Trump administration ... Health Sign in Federal research funding cuts pose an “existential threat” to academic medicine that will have repercussions for patient care in the US, according to a new re...
+
+Chunk 3 (Cosine Similarity: -0.0162):
+where we have a long way to go to be able to oﬀer a newly developed treatment that we know can improve or lengthen their lives,” Pierce said. “With those diseases, in many cases, the only way to try to move forward is with what scientists think are the very best potential treatments for those diseases.” Some of the clinical trials were terminated before their conclusion, which is unethical, she said. “Halting a clinical trial before it ends at any point, even if all of the patients who are in th...
+
+Chunk 4 (Cosine Similarity: -0.0245):
+in scientiﬁc progress and a decline in the quality of medical care. ‘We have a long way to go’ Academic health systems, which include medical schools and teaching hospitals, educate future physicians and investigate complex medical cases, treating the sickest patients. The new report says these institutions are also twice as likely as other hospitals to provide clinical services such as trauma centers, organ transplant centers, birthing rooms and substance use disorder care. The report says pati...
+
+Chunk 5 (Cosine Similarity: -0.0355):
+of American Medical Colleges train about 77,000 residents nationwide, making these institutions the primary producers of primary care and specialty physicians. Medicare oﬀsets a portion of the costs for the majority of trainees, and teaching hospitals fully cover the cost of training for the rest of the residents. Advertisement The proposed elimination of federal student aid programs and changing eligibility requirements for loan forgiveness would aﬀect nearly half of all medical students, the n...
+
+Generated Summary:
+what makes US innovation unique is that research comes “with not the support but the full partnership of the federal government.” A weakening of this partnership will make it “harder for the United States to stay as the driver of innovation and science progress,” Pierce said. A physician shortage coupled with declining research investment leads to the suﬀering of patient care, she said. “When the research stops, progress stops, and that’s when the science stops. And that is when we’re going to have to look at the future of medicine, and how we are going to be able to move forward.“Scientiﬁc progress toward more treatment, towards more
+
+Metrics:
+Input Token Count: 256
+Output Token Count: 150
+Generation Time: 14.90 seconds
